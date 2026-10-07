@@ -1,0 +1,873 @@
+Build a complete, polished, highly interactive personal portfolio website for me.
+
+IMPORTANT:
+Do not create a generic developer portfolio.
+The website should feel like an immersive anime-inspired storybook / cinematic portfolio with a soft cherry-blossom atmosphere, while still looking professional enough for recruiters and internships.
+
+==================================================
+1. PERSONAL INFORMATION
+==================================================
+
+Name:
+ANSHIKA SAXENA
+
+Professional title:
+B.Tech Computer Science & Design | Aspiring AI/ML Engineer
+
+About Me:
+
+"Hi, I’m Anshika Saxena, a 3rd-year B.Tech Computer Science & Design student at IMS Engineering College, Ghaziabad, with a growing passion for Artificial Intelligence and Machine Learning.
+
+I enjoy turning ideas into practical projects, especially where AI, technology, and real-world problems meet. I’ve worked on projects and participated in hackathons and buildathons, gaining hands-on experience with Python, Machine Learning, Pandas, NumPy, Git, GitHub, and web technologies.
+
+Currently, I’m strengthening my foundations in Machine Learning, Deep Learning, and AI, while building projects that help me understand how these technologies can be used beyond just theory.
+
+Outside of coding, I enjoy drawing, listening to music, and exploring creative ideas. I’m someone who likes learning by building, experimenting, and occasionally breaking things first because apparently that is also part of engineering.
+
+My goal: to grow into an AI/ML Engineer who builds meaningful, intelligent, and user-focused solutions while continuously learning and improving."
+
+==================================================
+2. EDUCATION
+==================================================
+
+Display an elegant animated education timeline.
+
+B.Tech Computer Science & Design
+IMS Engineering College, Ghaziabad
+2024 – 2028
+CGPA: 7.34/10
+
+Class XII – PCM
+KDB Public School
+2023 – 2024
+Percentage: 69.9%
+
+Class X
+KDB Public School
+2021 – 2022
+Percentage: 75.9%
+
+==================================================
+3. SKILLS / TECH STACK
+==================================================
+
+Create an interactive skills section.
+
+Programming:
+- Python
+- Java
+- C
+
+Data Science / ML:
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Linear Regression
+- K-Means Clustering
+- Support Vector Machine
+
+Web Development:
+- HTML
+- CSS
+- JavaScript
+- FastAPI
+
+Databases:
+- SQL
+- PostgreSQL
+- SQLite
+
+Tools / AI:
+- Git
+- GitHub
+- JSON
+- File Handling
+- OpenCV
+- Gemini API
+- LangChain
+- FAISS
+
+Concepts:
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- DBMS
+- Operating Systems
+
+Make the skills visually interactive.
+
+For example:
+- floating skill cards
+- animated icons
+- hover effects
+- subtle glowing effects
+- skill categories that expand
+- smooth transitions
+
+Do NOT make the skills section look like a boring list of progress bars.
+
+==================================================
+4. PROJECTS
+==================================================
+
+Create a beautiful interactive "My Work" section.
+
+Divide projects into:
+
+A. FEATURED / REAL PROJECTS
+B. LEARNING PROJECTS
+
+------------------------------------------
+FEATURED PROJECT 1
+------------------------------------------
+
+SEHAT SAATHI
+
+Description:
+An AI-driven healthcare platform designed to connect patients and doctors and provide intelligent healthcare assistance.
+
+My contribution:
+Primarily backend development.
+
+Technologies:
+FastAPI
+Python
+PostgreSQL
+SQLite
+SQLAlchemy
+JavaScript
+Gemini API
+JWT
+bcrypt
+
+GitHub:
+https://github.com/saxenakhushi081-svg/Sehat-Saathi-2.0
+
+Create an attractive project card with:
+- project title
+- short description
+- technologies
+- my contribution
+- GitHub button
+- animated hover effect
+
+------------------------------------------
+FEATURED PROJECT 2
+------------------------------------------
+
+FORGEMIND AI
+
+Description:
+An AI-powered Industrial Knowledge Intelligence Platform designed for document interaction, semantic search, analytics, knowledge visualization, RCA, compliance and intelligent information management.
+
+My contribution:
+Primarily frontend development.
+
+Technologies:
+React
+TypeScript
+Vite
+Tailwind CSS
+FastAPI
+Python
+PostgreSQL
+LangChain
+FAISS
+Gemini API
+
+GitHub:
+https://github.com/saxenakhushi081-svg/ForgeMindAI
+
+Create a visually impressive project card.
+
+------------------------------------------
+PROJECT 3
+------------------------------------------
+
+LIBRARY MANAGEMENT SYSTEM
+
+Description:
+A Python-based console application for managing books with features such as adding and removing books, searching by title/ISBN, borrowing and returning books, ISBN duplicate validation and persistent JSON storage.
+
+Technologies:
+Python
+OOP
+JSON
+File Handling
+
+GitHub:
+https://github.com/saxenakhushi081-svg/Library-Management-System
+
+------------------------------------------
+PROJECT 4
+------------------------------------------
+
+RAILWAY MANAGEMENT SYSTEM
+
+Description:
+An individual Python application with user registration/login, train search, ticket booking, cancellation, booking history and wallet management.
+
+Admin functionality includes adding/removing trains and viewing bookings.
+
+Technologies:
+Python
+OOP
+JSON
+File Handling
+Git
+GitHub
+
+GitHub:
+https://github.com/saxenakhushi081-svg/Railway-Management-System
+
+------------------------------------------
+LEARNING PROJECT
+------------------------------------------
+
+HIREFLOW
+
+Resume Analyzer
+
+This project is currently a learning project.
+
+Leave placeholders for:
+- GitHub link
+- Demo/video link
+- Project image
+
+Do NOT invent links.
+
+Add a subtle "Learning Project" label.
+
+==================================================
+5. HACKATHONS & COMPETITIONS
+==================================================
+
+Create a highly visual interactive section.
+
+Use timeline cards or a horizontal scrolling experience.
+
+Include:
+
+Bharat-Tech Xperience 3.0
+3–4 April 2026
+Team
+Uniques Community at SVGOI
+
+HackdayAgra 2026
+30–31 May 2026
+Team
+Optimaxin Solutions Software Solutions Pvt. Ltd.
+
+WEBNOVA 2026
+Round 3 Finalist
+Team
+HackerRank Campus Crew – IMS Engineering College
+
+Tech4Hack / Buildthon
+1 August 2026
+Team
+Thoughtworks Technology
+
+Build With Bharat – Microsoft
+1 August 2026
+Team
+CodeVerse
+
+Gemini Buildathon
+6 November 2025
+Team
+Google Student Ambassador Program
+
+IMPORTANT:
+I will provide photos for these hackathons later.
+
+Create an elegant image gallery / expandable cards system with placeholders for hackathon photos.
+
+Do NOT generate fake photos.
+Do NOT invent achievements or rankings.
+
+==================================================
+6. CERTIFICATIONS
+==================================================
+
+Create an interactive certificate section.
+
+Include:
+
+Data Analytics with Python & Power BI
+EduSkills
+August 2026
+
+Getting Started with Artificial Intelligence
+IBM SkillsBuild
+July 2026
+
+AWS Academy Graduate – Machine Learning for Natural Language Processing
+Amazon Web Services Training and Certification
+May 2026
+
+Red Hat Training: Getting Started with Linux Fundamentals
+Red Hat
+July 2026
+
+Gen AI Virtual Internship
+EduSkills Foundation
+April–June 2026
+
+Comprehensive Technical Assessment
+EISystems Technologies
+May 2026
+
+Also include:
+
+Prompt Battle at IMS
+
+Gemini Buildathon
+
+EISystems Technologies Quiz & Workshop
+
+Python Full Stack – EduSkills
+6-week program
+Certificate will be added later
+
+For certificates where I will upload images later:
+create elegant placeholders.
+
+Do NOT invent certificate URLs.
+
+==================================================
+7. EXPERIENCE / TRAINING
+==================================================
+
+Create a separate experience / training timeline.
+
+MACHINE LEARNING INTERN
+Prodigy Infotech
+15 July 2026 – 15 August 2026
+
+Details:
+- Developed four machine learning projects using practical ML techniques.
+- Implemented Linear Regression, K-Means Clustering and Support Vector Machine models.
+- Used Python, Scikit-learn, OpenCV and data-processing techniques.
+- Performed data preparation, model training, testing and evaluation.
+
+DATA ANALYTICS WITH PYTHON & POWER BI INTERN
+EduSkills Virtual Internship
+June 2026 – July 2026
+
+Details:
+- Developed practical skills in Python, SQL and Microsoft Power BI.
+- Completed a capstone project focused on E-commerce Sales and Customer Insights.
+- Designed an interactive Power BI dashboard.
+- Applied data analysis and visualization techniques.
+
+Also show my training/certification journey in a visually interesting way:
+- AWS Gen AI / EduSkills
+- IBM Getting Started with AI
+- Data Analytics with Python & Power BI
+- Python Full Stack – EduSkills (upcoming certificate)
+
+==================================================
+8. RESUME
+==================================================
+
+Add a "Resume" button in the website.
+
+The button should allow visitors to view/download my resume.
+
+Use the uploaded resume information as the source for the resume section.
+
+Do not create fake information.
+
+If the uploaded resume cannot be directly embedded by Replit, create a clearly marked placeholder for the resume file so I can add it later.
+
+==================================================
+9. CONTACT
+==================================================
+
+Create a beautiful final Contact section.
+
+Show:
+
+Email:
+saxenakhushi081@gmail.com
+
+Phone:
+9310505178
+
+LinkedIn:
+https://www.linkedin.com/in/anshika-saxena-155026331/
+
+GitHub:
+https://github.com/saxenakhushi081-svg
+
+Instagram:
+https://www.instagram.com/saxenakhushi081/
+
+Create interactive social icons.
+
+When clicked, they should open the appropriate links in a new tab.
+
+Do NOT display unnecessary personal information anywhere else on the website.
+
+==================================================
+10. HERO / LANDING PAGE
+==================================================
+
+This is extremely important.
+
+The first screen should feel cinematic.
+
+Start with a short elegant loading screen lasting approximately 1–3 seconds.
+
+Loading screen concept:
+- soft sky-blue background
+- subtle cherry blossom petals
+- elegant loading animation
+- anime-inspired atmosphere
+- then transition smoothly into the main website
+
+After loading:
+
+Display:
+
+ANSHIKA
+SAXENA
+
+in very large typography.
+
+The name should animate into view.
+
+Possible animation:
+- letters appearing individually
+- gentle fade + upward movement
+- slight blur-to-sharp transition
+- subtle glow
+- elegant floating effect
+
+Below it:
+
+B.Tech Computer Science & Design
+Aspiring AI/ML Engineer
+
+Add a subtle scroll indicator saying:
+
+"Scroll to explore"
+
+The hero should immediately communicate:
+creative + technical + AI + elegant.
+
+==================================================
+11. MAIN VISUAL THEME
+==================================================
+
+Use a dreamy anime-inspired cherry blossom environment.
+
+Primary colors:
+- sky blue
+- light blue
+- white
+- very soft pink
+- subtle lavender
+- pastel tones
+
+Avoid:
+- harsh neon colors
+- overly dark cyberpunk styling
+- excessive gradients
+- clutter
+- generic corporate templates
+
+The overall website should feel:
+- peaceful
+- elegant
+- creative
+- futuristic
+- interactive
+- cinematic
+- professional
+
+==================================================
+12. ANIME GIRL CHARACTER
+==================================================
+
+This is one of the most important visual elements.
+
+Use an anime-style girl character wearing a beautiful flowing dress.
+
+She should fit naturally into the cherry blossom environment.
+
+Visual characteristics:
+- elegant anime style
+- long flowing hair
+- flowing dress
+- soft colors
+- graceful movement
+- cinematic appearance
+
+The character should feel like she is travelling through Anshika's portfolio.
+
+IMPORTANT:
+
+The character should NOT simply stay fixed in one place.
+
+As the user scrolls:
+- character moves
+- character changes position
+- character can appear to walk/run/fly between sections
+- dress/hair can react subtly
+- petals move around her
+- character transitions naturally between sections
+
+Use scroll-based animation.
+
+If generating a custom anime character asset is not possible:
+create the website architecture so that the character image/transparent PNG can easily be replaced later.
+
+Do NOT use a copyrighted anime character.
+
+Use an original anime-inspired character.
+
+==================================================
+13. CHERRY BLOSSOM EFFECT
+==================================================
+
+Cherry blossom petals should continuously fall throughout the website.
+
+Use a lightweight particle system.
+
+Requirements:
+- petals slowly falling
+- different sizes
+- different speeds
+- slight horizontal movement
+- subtle randomness
+- do not make the effect overwhelming
+- optimize performance
+
+The petals should appear across all major sections until the footer.
+
+Create depth:
+- some petals blurred
+- some closer/sharper
+- some moving faster
+- subtle parallax
+
+==================================================
+14. SCROLL EXPERIENCE
+==================================================
+
+Make scrolling feel like a story.
+
+Suggested flow:
+
+LOADING
+↓
+HERO
+↓
+ABOUT ME
+↓
+EDUCATION
+↓
+SKILLS
+↓
+FEATURED PROJECTS
+↓
+LEARNING PROJECTS
+↓
+HACKATHONS
+↓
+EXPERIENCE / TRAINING
+↓
+CERTIFICATIONS
+↓
+CONTACT
+↓
+FOOTER
+
+Each section should have a distinct animation.
+
+Examples:
+- fade in
+- slide in
+- parallax
+- scale
+- blur to sharp
+- floating cards
+- horizontal movement
+- character movement
+
+Do NOT animate everything aggressively.
+
+Animations should feel smooth and premium.
+
+==================================================
+15. ABOUT SECTION
+==================================================
+
+Make the About Me section visually interesting.
+
+Use the supplied About Me text.
+
+Highlight important words such as:
+
+Artificial Intelligence
+Machine Learning
+Python
+AI/ML Engineer
+building
+learning
+
+Add small decorative elements around the section.
+
+Keep the writing professional but retain the small humorous line about breaking things first.
+
+==================================================
+16. INTERACTIVE PROJECT CARDS
+==================================================
+
+Project cards should respond to mouse movement.
+
+Add:
+- tilt effect
+- subtle 3D depth
+- hover glow
+- image zoom
+- animated technology tags
+- GitHub button animation
+
+Clicking a project can open an expanded project view/modal.
+
+The modal should contain:
+- project name
+- description
+- contribution
+- tech stack
+- GitHub link
+- future demo/video placeholder if applicable
+
+==================================================
+17. NAVIGATION
+==================================================
+
+Create a clean floating navigation bar.
+
+Navigation:
+
+Home
+About
+Skills
+Projects
+Hackathons
+Experience
+Certificates
+Contact
+
+The navbar should:
+- become slightly blurred/translucent when scrolling
+- highlight the current section
+- smoothly scroll to sections
+- remain accessible
+
+On mobile:
+- transform into a hamburger menu
+- smooth menu animation
+
+==================================================
+18. MICRO-INTERACTIONS
+==================================================
+
+Add tasteful micro-interactions:
+
+- buttons slightly move on hover
+- cursor effects where appropriate
+- cards respond to mouse movement
+- social icons animate
+- text reveals on scroll
+- petals react subtly to movement if performance allows
+- section headings have animated entrances
+- smooth page transitions
+
+Do NOT overdo effects.
+
+The website should remain professional.
+
+==================================================
+19. RESPONSIVENESS
+==================================================
+
+The website MUST work properly on:
+
+Desktop
+Laptop
+Tablet
+Mobile
+
+The anime character, petals, cards and animations must adapt to smaller screens.
+
+On mobile:
+- reduce particle count
+- simplify complex animations
+- prevent horizontal overflow
+- keep text readable
+- keep buttons accessible
+- optimize performance
+
+==================================================
+20. PERFORMANCE
+==================================================
+
+This website will contain many animations.
+
+Optimize it carefully.
+
+Use:
+- lazy loading for images
+- optimized assets
+- CSS transforms instead of expensive layout animations
+- requestAnimationFrame where appropriate
+- reduced particle count on mobile
+- code splitting where useful
+
+Do not create an animation-heavy website that becomes unusable on an average laptop.
+
+==================================================
+21. TECHNOLOGY
+==================================================
+
+Use a modern React-based architecture.
+
+Preferred:
+- React
+- Vite
+- JavaScript or TypeScript
+- Tailwind CSS or clean modern CSS
+- Framer Motion and/or GSAP for animations
+- Three.js / React Three Fiber only where it genuinely improves the experience
+
+Do not add unnecessary dependencies.
+
+Keep the project clean and maintainable.
+
+Use reusable components.
+
+Suggested structure:
+
+src/
+  components/
+    Navbar
+    LoadingScreen
+    Hero
+    About
+    Education
+    Skills
+    Projects
+    Hackathons
+    Experience
+    Certificates
+    Contact
+    Footer
+    CherryBlossomParticles
+    AnimeCharacter
+  assets/
+  App
+  styles
+
+==================================================
+22. IMPORTANT CONTENT RULES
+==================================================
+
+Use ONLY the information provided in this prompt and the uploaded resume.
+
+Do not invent:
+- internships
+- awards
+- project features
+- rankings
+- certificates
+- company names
+- statistics
+- links
+- testimonials
+- fake client work
+
+Where information is intentionally missing, use a clean placeholder.
+
+I will later add:
+- HireFlow GitHub link
+- project demo/video links
+- hackathon photos
+- certificate images
+- possibly custom anime character assets
+
+Build the website so these can be added easily.
+
+==================================================
+23. FOOTER
+==================================================
+
+The footer should be extremely minimal.
+
+Display ONLY:
+
+Anshika Saxena
+
+Do not put:
+- phone number
+- email
+- social links
+- copyright text
+- extra navigation
+- quotes
+- additional footer information
+
+Only:
+
+Anshika Saxena
+
+==================================================
+24. FINAL QUALITY REQUIREMENT
+==================================================
+
+The final website should look like a professionally designed personal portfolio, not a college assignment.
+
+It should combine:
+
+AI/ML Engineer identity
++
+Anime-inspired storytelling
++
+Cherry blossom atmosphere
++
+Modern web design
++
+Smooth scroll animation
++
+Interactive project presentation
++
+Professional recruiter-friendly information
+
+The visual experience should make the visitor feel like they are moving through a peaceful animated world while discovering Anshika's technical journey.
+
+Most importantly:
+DO NOT sacrifice readability or usability for the animations.
+
+Make the design elegant, polished, responsive and production-ready.
+
+After implementing the website, verify:
+- all navigation links work
+- all GitHub links work
+- social links work
+- no broken images
+- no console errors
+- no horizontal overflow
+- responsive layout works
+- animations do not block interaction
+- mobile navigation works
+- project cards work
+- loading screen transitions correctly
+- footer contains ONLY "Anshika Saxena"
+
+Build the complete website, not just a mockup.

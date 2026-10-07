@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Anshika Saxena Portfolio"
+description = "An immersive, anime-inspired personal portfolio for Anshika Saxena, an aspiring AI/ML Engineer, with cinematic storytelling, interactive projects, skills, education, hackathons, experience, certifications, and contact links."
+version = "1.0.0"
+id = "artifacts/anshika-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19059
+
+[services.development]
+run = "pnpm --filter @workspace/anshika-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/anshika-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/anshika-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19059"
+BASE_PATH = "/"
