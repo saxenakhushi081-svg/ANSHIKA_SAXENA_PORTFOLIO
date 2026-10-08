@@ -6,6 +6,11 @@ const pinoHttp =
   typeof pinoHttpModule === "function"
     ? pinoHttpModule
     : pinoHttpModule.default;
+
+const pinoHttp =
+  typeof pinoHttpModule === "function"
+    ? pinoHttpModule
+    : pinoHttpModule.default;
     
 import router from "./routes";
 import { logger } from "./lib/logger";
