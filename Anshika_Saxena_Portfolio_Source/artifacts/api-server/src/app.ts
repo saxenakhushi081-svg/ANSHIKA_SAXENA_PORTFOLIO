@@ -2,18 +2,13 @@ import express, { type Express } from "express";
 import cors from "cors";
 import pinoHttpModule from "pino-http";
 
-const pinoHttp =
-  typeof pinoHttpModule === "function"
-    ? pinoHttpModule
-    : pinoHttpModule.default;
+import router from "./routes";
+import { logger } from "./lib/logger";
 
 const pinoHttp =
   typeof pinoHttpModule === "function"
     ? pinoHttpModule
     : pinoHttpModule.default;
-    
-import router from "./routes";
-import { logger } from "./lib/logger";
 
 const app: Express = express();
 
