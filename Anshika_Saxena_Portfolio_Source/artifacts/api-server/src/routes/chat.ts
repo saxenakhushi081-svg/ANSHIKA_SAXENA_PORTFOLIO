@@ -72,22 +72,28 @@ PROFILE CONTEXT:
 ${anshikaProfileContext}`;
 
   try {
-    const response = await fetch("https://api.openai.com/v1/chat/completions", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        Authorization: `Bearer ${apiKey}`,
-      },
-      body: JSON.stringify({
-        model: "gpt-5.2",
-        max_completion_tokens: 8192,
-        messages: [
-          { role: "system", content: systemPrompt },
-          ...history.map(({ role, content }) => ({ role, content: content.slice(0, MAX_MESSAGE_LENGTH) })),
-          { role: "user", content: message },
-        ],
-      }),
-    });
+    const response: globalThis.Response = await fetch(
+  "https://api.openai.com/v1/chat/completions",
+  {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${apiKey}`,
+    },
+    body: JSON.stringify({
+      model: "gpt-5.2",
+      max_completion_tokens: 8192,
+      messages: [
+        { role: "system", content: systemPrompt },
+        ...history.map(({ role, content }) => ({
+          role,
+          content: content.slice(0, MAX_MESSAGE_LENGTH),
+        })),
+        { role: "user", content: message },
+      ],
+    }),
+  },
+);
 
     if (!response.ok) {
       await response.text();
