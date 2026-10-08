@@ -72,7 +72,7 @@ PROFILE CONTEXT:
 ${anshikaProfileContext}`;
 
   try {
-    const response: globalThis.Response = await fetch(
+   const response = (await fetch(
   "https://api.openai.com/v1/chat/completions",
   {
     method: "POST",
@@ -93,7 +93,12 @@ ${anshikaProfileContext}`;
       ],
     }),
   },
-);
+)) as unknown as {
+  ok: boolean;
+  status: number;
+  text: () => Promise<string>;
+  json: () => Promise<unknown>;
+};
 
     if (!response.ok) {
       await response.text();
